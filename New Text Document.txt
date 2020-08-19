@@ -1,0 +1,4 @@
+Create a database called "football" and import sql file
+
+admin username - admin 
+admin password - admin 
